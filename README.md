@@ -12,6 +12,7 @@
 * Demo 9 : Printing contents of a folder in a tree format: (FolderTree.java)
 * Demo 10: Convert  an integer to string numbers.
 
-
+### Screenshots
+![The Junit code with TDD](https://github.com/QuangVan2001/recursion-02/blob/main/images/RecursionEliminateDemo.png)
 
 #### © 2022 quangvan037 | https://www.facebook.com/quangvan037/
